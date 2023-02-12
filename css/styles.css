@@ -54,9 +54,6 @@ header {
   line-height: 1;
 }
 
-.web-studio:hover {
-  color: var(--brand-color);
-}
 /* header-nav-elemnts */
 
 .header-container {
@@ -67,10 +64,7 @@ header {
   border-width: 0px 0px 1px 0px;
   border-color: #ececec;
 }
-.header-container-flex {
-  display: flex;
-  justify-content: space-between;
-}
+
 .header-element {
   color: #212121;
   font-family: var(--main-font);
@@ -621,7 +615,6 @@ color: #757575;
   cursor: pointer;
 }
 
-/* final-m-n---------------------------------------------------------------------------------------*/
 
 .close-button{
   position: relative;
